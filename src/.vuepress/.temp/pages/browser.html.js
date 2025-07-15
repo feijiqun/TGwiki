@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/browser.html.vue"
+const data = JSON.parse("{\"path\":\"/browser.html\",\"title\":\"内置浏览器\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"内置浏览器\",\"description\":\"新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"内置浏览器\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser2.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/browser.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"内置浏览器\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser1.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram内置浏览器,Telegram浏览器,Telegram链接预览,TG内置浏览器,TG浏览器,TG链接预览,电报内置浏览器,电报浏览器,电报链接预览\"}]]},\"readingTime\":{\"minutes\":1.05,\"words\":315},\"filePathRelative\":\"browser.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

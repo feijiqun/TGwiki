@@ -1,0 +1,14 @@
+export const NOTICE_OPTIONS = JSON.parse("[{\"content\":\"我们更新了文档内容并启用了新域名：dianbaosousuo.com。<br/>TGwiki维护需要巨大成本，欢迎您在条件允许范围内赞助我们。\",\"path\":\"/\",\"title\":\"TGwiki已更新\",\"actions\":[{\"text\":\"赞助我们\",\"type\":\"primary\",\"link\":\"https://feijiqun.github.io/donate/\"},{\"text\":\"关注Twitter\",\"type\":\"default\",\"link\":\"https://www.twitter.com/TGNAVteam\"}]}]")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateNoticeOptions) {
+    __VUE_HMR_RUNTIME__.updateNoticeOptions(NOTICE_OPTIONS)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ NOTICE_OPTIONS }) => {
+    __VUE_HMR_RUNTIME__.updateNoticeOptions(NOTICE_OPTIONS)
+  })
+}

@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/comment.html.vue"
+const data = JSON.parse("{\"path\":\"/comment.html\",\"title\":\"评论功能\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"评论功能\",\"description\":\"本文介绍了Telegram频道消息如何添加“评论功能。开启后，在频道发送的消息都会在消息下面显示\\\"评论\\\"按钮，点击即可评论当前频道消息，评论的消息也同步显示在关联群组中。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"评论功能\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/comment.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/comment.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"评论功能\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了Telegram频道消息如何添加“评论功能。开启后，在频道发送的消息都会在消息下面显示\\\"评论\\\"按钮，点击即可评论当前频道消息，评论的消息也同步显示在关联群组中。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/comment.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram频道评论,Telegram评论,Telegram关联群组,Telegram讨论群组,TG频道评论,TG评论,TG关联群组,TG讨论群组,电报频道评论,电报评论,电报关联群组,电报讨论群组\"}]]},\"readingTime\":{\"minutes\":1.17,\"words\":351},\"filePathRelative\":\"comment.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

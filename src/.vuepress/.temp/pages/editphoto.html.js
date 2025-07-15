@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/editphoto.html.vue"
+const data = JSON.parse("{\"path\":\"/editphoto.html\",\"title\":\"图片排版\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"图片排版\",\"description\":\"本文介绍了Telegram在发送图片消息时如何添加文字说明，以文件格式发送图片，调整文本位置，编辑图片样式，以及对图片重新排序。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"图片排版\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/editphoto1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto2.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto3.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/editphoto2.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto4.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto5.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/editphoto3.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto6.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/editphoto4.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/editphoto.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"图片排版\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了Telegram在发送图片消息时如何添加文字说明，以文件格式发送图片，调整文本位置，编辑图片样式，以及对图片重新排序。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto1.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram图片排版,Telegram图片添加说明,Telegram发送图片,Telegram发送原图,Telegram编辑图片,Telegram图片排序,TG图片排版,TG图片添加说明,TG发送图片,TG发送原图,TG编辑图片,TG图片排序,电报图片添加说明,电报发送图片,电报发送原图,电报编辑图片,电报图片排序\"}]]},\"readingTime\":{\"minutes\":2.63,\"words\":789},\"filePathRelative\":\"editphoto.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

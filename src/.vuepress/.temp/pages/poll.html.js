@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/poll.html.vue"
+const data = JSON.parse("{\"path\":\"/poll.html\",\"title\":\"创建投票\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"创建投票\",\"description\":\"Telegram客户端官方已添加投票功能，可以实时显示投票人数和比例。本文介绍了Telegram如何创建投票，以及投票有关功能说明。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"创建投票\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/poll.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/poll.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/poll.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"创建投票\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Telegram客户端官方已添加投票功能，可以实时显示投票人数和比例。本文介绍了Telegram如何创建投票，以及投票有关功能说明。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/poll.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram投票,Telegram创建投票,Telegram发起投票,TG投票,TG创建投票,TG发起投票,电报投票,电报创建投票,电报发起投票\"}]]},\"readingTime\":{\"minutes\":1.05,\"words\":314},\"filePathRelative\":\"poll.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

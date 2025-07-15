@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/scam.html.vue"
+const data = JSON.parse("{\"path\":\"/scam.html\",\"title\":\"谨防诈骗\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"谨防诈骗\",\"description\":\"Telegram上有很多诈骗团伙使用各种手段欺诈用户。通常小白很容易中招，造成不必要的财产损失。本文介绍了常见的诈骗形式，帮助用户有效避坑，防止陷入诈骗圈套。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"谨防诈骗\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam2.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam3.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam4.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/scam.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"谨防诈骗\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Telegram上有很多诈骗团伙使用各种手段欺诈用户。通常小白很容易中招，造成不必要的财产损失。本文介绍了常见的诈骗形式，帮助用户有效避坑，防止陷入诈骗圈套。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam1.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram谨防诈骗,Telegram诈骗套路,Telegram骗子,Telegram防止被骗,TG谨防诈骗,TG诈骗套路,TG骗子,TG防止被骗,电报谨防诈骗,电报诈骗套路,电报骗子,电报防止被骗\"}]]},\"readingTime\":{\"minutes\":3.98,\"words\":1194},\"filePathRelative\":\"scam.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

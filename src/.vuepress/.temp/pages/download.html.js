@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/download.html.vue"
+const data = JSON.parse("{\"path\":\"/download.html\",\"title\":\"缓存和下载\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"缓存和下载\",\"lang\":\"zh-CN\",\"description\":\"Telegram客户端在使用过程中会自动下载媒体（图片/视频/音频/文件）缓存在设备上，就会大量的占用设备存储空间。本文介绍了如何清理Telegram缓存，以及Telegram自动下载的有关设置。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"缓存和下载\\\",\\\"image\\\":[\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download2.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/download1.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download3.jpg\\\",\\\"https://cdn.jsdelivr.net/gh/tgwiki/images/td/download2.jpg\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/download.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"缓存和下载\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Telegram客户端在使用过程中会自动下载媒体（图片/视频/音频/文件）缓存在设备上，就会大量的占用设备存储空间。本文介绍了如何清理Telegram缓存，以及Telegram自动下载的有关设置。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download1.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram缓存,Telegram下载,Telegram清理缓存,Telegram自动下载,Telegram存储空间,Telegram解除占用,TG缓存,TG下载,TG清理缓存,TG自动下载,TG存储空间,TG解除占用,电报缓存,电报下载,电报清理缓存,电报自动下载,电报存储空间,电报解除占用\"}]]},\"readingTime\":{\"minutes\":1.96,\"words\":587},\"filePathRelative\":\"download.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/deleteaccount.html.vue"
+const data = JSON.parse("{\"path\":\"/deleteaccount.html\",\"title\":\"删除账号\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"删除账号\",\"description\":\"本文介绍了如何删除您的Telegram账号，包括手动删除账号、自动删除账号。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"删除账号\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/deleteaccount.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"删除账号\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了如何删除您的Telegram账号，包括手动删除账号、自动删除账号。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram删除账号,Telegram删号,Telegram注销账号,Telegram注销,TG删除账号,TG删号,TG注销账号,TG注销,电报删除账号,电报删号,电报注销账号,电报注销,Telegram设置,TGwiki,Telegram知识库\"}]]},\"readingTime\":{\"minutes\":0.82,\"words\":247},\"filePathRelative\":\"deleteaccount.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

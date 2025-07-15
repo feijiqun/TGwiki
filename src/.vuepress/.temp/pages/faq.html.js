@@ -1,0 +1,16 @@
+import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/faq.html.vue"
+const data = JSON.parse("{\"path\":\"/faq.html\",\"title\":\"常见问题与解答\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"常见问题与解答\",\"description\":\"本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"常见问题与解答\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/faq.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"常见问题与解答\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ\"}]]},\"readingTime\":{\"minutes\":3.73,\"words\":1120},\"filePathRelative\":\"faq.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

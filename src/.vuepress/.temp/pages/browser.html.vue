@@ -1,0 +1,29 @@
+<template><div><p>新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。</p>
+<h2 id="功能" tabindex="-1"><a class="header-anchor" href="#功能"><span>功能</span></a></h2>
+<ul>
+<li>网页搜索</li>
+<li>添加收藏</li>
+<li>可以将受支持的页面转化为即时预览（Instant View）格式</li>
+<li>直接打开TON区块链网站</li>
+<li>你可以点击右上角按钮在外部浏览器中打开网页</li>
+</ul>
+<details class="hint-container details"><summary>界面截图</summary>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser1.jpg" alt="tfa-browser1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser1.jpg</figcaption></figure>
+</details>
+<h2 id="设置" tabindex="-1"><a class="header-anchor" href="#设置"><span>设置</span></a></h2>
+<p>你可以通过内置浏览器页面右上角<code v-pre>设置</code>按钮，修改有关设置。</p>
+<details class="hint-container details"><summary>操作演示</summary>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser2.jpg" alt="tfa-browser2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser2.jpg</figcaption></figure>
+</details>
+<p>可以设置的项目：</p>
+<ul>
+<li>开启/关闭应用内置浏览器</li>
+<li>清除Cookies</li>
+<li>清除缓存</li>
+<li>清空历史记录</li>
+<li>设置不使用内置浏览器打开的网站</li>
+<li>修改默认搜索引擎</li>
+</ul>
+</div></template>
+
+
