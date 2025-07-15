@@ -1,16 +1,3 @@
 import comp from "/Users/tom/Documents/project/feijiqun/tgwiki-main/src/.vuepress/.temp/pages/findadmin.html.vue"
-const data = JSON.parse("{\"path\":\"/findadmin.html\",\"title\":\"找出群管理员\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"找出群管理员\",\"description\":\"本文介绍了如何找出Telegram群组管理员。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"找出群管理员\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/findadmin.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"找出群管理员\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了如何找出Telegram群组管理员。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram找出管理员,Telegram查找群管理员,TG找出管理员,TG查找群管理员,电报找出管理员,电报查找群管理员,TGwiki,Telegram知识库\"}]]},\"readingTime\":{\"minutes\":1.5,\"words\":451},\"filePathRelative\":\"findadmin.md\"}")
+const data = JSON.parse("{\"path\":\"/findadmin.html\",\"title\":\"找出群管理员\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"找出群管理员\",\"description\":\"本文介绍了如何找出Telegram群组管理员。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"找出群管理员\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2025-07-15T20:45:39.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"TGwiki\\\"}]}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://dianbaosousuo.com/tgwiki/findadmin.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"TGwiki - Telegram知识库\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"找出群管理员\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"本文介绍了如何找出Telegram群组管理员。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-07-15T20:45:39.000Z\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-07-15T20:45:39.000Z\"}],[\"meta\",{\"name\":\"keywords\",\"content\":\"Telegram找出管理员,Telegram查找群管理员,TG找出管理员,TG查找群管理员,电报找出管理员,电报查找群管理员,TGwiki,Telegram知识库\"}]]},\"git\":{\"createdTime\":1752612339000,\"updatedTime\":1752612339000,\"contributors\":[{\"name\":\"feijiqun\",\"username\":\"feijiqun\",\"email\":\"zhaotongbeyond@sina.com\",\"commits\":1,\"url\":\"https://github.com/feijiqun\"}]},\"readingTime\":{\"minutes\":1.5,\"words\":451},\"filePathRelative\":\"findadmin.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

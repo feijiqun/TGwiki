@@ -126,7 +126,7 @@
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>侧边栏有文档目录，您可以快速定位到目标内容。</p>
-<p><RouteLink to="/">文档主页</RouteLink> 有完整的文章列表。</p>
+<p><a href="/" target="_blank" rel="noopener noreferrer">文档主页</a> 有完整的文章列表。</p>
 <p>您可以查看 <RouteLink to="/faq.html">Telegram常见问题与解答</RouteLink> ，希望能帮助到您。</p>
 <p>除此之外，您还可以通过文档的关键词搜索功能查找相关内容。</p>
 <p><em>若搜索无法加载，请刷新页面重试。</em></p>
