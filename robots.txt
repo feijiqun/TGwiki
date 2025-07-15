@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dianbaosousuo.com/sitemap.xml
+Sitemap: https://dianbaosousuo.com/tgwiki/sitemap.xml
 
 
 User-agent:*
