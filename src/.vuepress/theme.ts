@@ -10,7 +10,7 @@ export default hopeTheme({
   },
   logo: "/assets/icon/logo.svg",
   logoDark: "/assets/icon/logo2.svg",
-  repo: "dianbaosousuo/tgwiki",
+  repo: "feijiqun/tgwiki",
   docsDir: "src",
   copyright: false,
   breadcrumb: false,

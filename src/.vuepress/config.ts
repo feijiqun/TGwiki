@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/tgwiki/",
+  base: "/TGwiki/",
   lang: "zh-CN",
   title: 'TGwiki - Telegram知识库',
   shouldPrefetch: false,
