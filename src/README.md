@@ -13,7 +13,7 @@ bgImageDark: ./assets/image/0-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: TGwiki - Telegram知识库
-tagline: TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
+tagline: TGwiki (Telegram Wiki) - Telegram知识库，由✈️飞机群打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 heroFullScreen: true
 actions:
   - text: 立即开始

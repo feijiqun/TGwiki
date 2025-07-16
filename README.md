@@ -2,7 +2,7 @@
 
 ### 网站地址：[传送门](https://dianbaosousuo.com/tgwiki/)
 
-由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
+由✈️飞机群打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 
 TGwiki是Telegram Wiki的缩写，旨在打造一个开放、协作的Telegram知识库体系。
 
