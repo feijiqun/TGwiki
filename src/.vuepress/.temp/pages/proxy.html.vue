@@ -11,7 +11,7 @@
 </ul>
 <p>使用自定义代理添加方法： <code v-pre>添加代理</code>（Add proxy）-&gt;<code v-pre>SOCKS5/HTTP</code>-&gt;服务器： <code v-pre>127.0.0.1</code>， 端口：端口需查看你的代理软件，不需要填写用户名和密码。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/td/proxy.jpg" alt="td-proxy.jpg" tabindex="0" loading="lazy"><figcaption>td-proxy.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/proxy.jpg" alt="td-proxy.jpg" tabindex="0" loading="lazy"><figcaption>td-proxy.jpg</figcaption></figure>
 </details>
 <p><strong>代理软件查看本地端口的方法：</strong></p>
 <ul>

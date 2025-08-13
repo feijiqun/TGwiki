@@ -10,8 +10,8 @@
 <li>
 <p>方法1：Telegram for Android ≥<code v-pre>v8.4</code> 官方客户端更新新增<code v-pre>消息翻译</code>功能：先使用中文语言包汉化-&gt;<code v-pre>设置</code>-&gt;<code v-pre>语言</code>-&gt;打开<code v-pre>显示翻译按钮</code>，使用方法：<code v-pre>轻点消息</code>-&gt;<code v-pre>翻译</code>（使用Google翻译接口）</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/language.jpg" alt="tfa-language.jpg" tabindex="0" loading="lazy"><figcaption>tfa-language.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/translate.jpg" alt="tfa-translate.jpg" tabindex="0" loading="lazy"><figcaption>tfa-translate.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/language.jpg" alt="tfa-language.jpg" tabindex="0" loading="lazy"><figcaption>tfa-language.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/translate.jpg" alt="tfa-translate.jpg" tabindex="0" loading="lazy"><figcaption>tfa-translate.jpg</figcaption></figure>
 </details>
 </li>
 <li>

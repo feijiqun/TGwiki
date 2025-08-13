@@ -13,7 +13,7 @@
 <li>Desktop客户端：<code v-pre>左上角三短线-</code>&gt;<code v-pre>点击你的头像/收藏夹图标</code>；快捷键：<code v-pre>Ctrl</code>+<code v-pre>0</code></li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/favourite.jpg" alt="tfa-favourite.jpg" tabindex="0" loading="lazy"><figcaption>tfa-favourite.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/favourite.jpg" alt="tfa-favourite.jpg" tabindex="0" loading="lazy"><figcaption>tfa-favourite.jpg</figcaption></figure>
 </details>
 </div></template>
 

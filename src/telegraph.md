@@ -59,7 +59,7 @@ Telegraph是一个极简的匿名内容发布工具。
 
 ::: details 操作演示
 
-![tfa-telegraph.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/telegraph.jpg)
+![tfa-telegraph.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/telegraph.jpg)
 
 :::
 

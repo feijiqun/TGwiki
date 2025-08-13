@@ -15,7 +15,7 @@ Telegram上有很多诈骗团伙，通常刚接触Telegram的小白很容易中�
 
 ::: details 界面截图
 
-![tfa-scam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam1.jpg)
+![tfa-scam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam1.jpg)
 
 :::
 
@@ -43,7 +43,7 @@ Telegram上有很多诈骗团伙，通常刚接触Telegram的小白很容易中�
 
 ::: details 界面截图
 
-![tfa-scam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam2.jpg)
+![tfa-scam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam2.jpg)
 
 :::
 
@@ -63,9 +63,9 @@ Telegram上有很多诈骗团伙，通常刚接触Telegram的小白很容易中�
 
 ::: details 界面截图
 
-![tfa-scam3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam3.jpg)
+![tfa-scam3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam3.jpg)
 
-![tfa-scam4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam4.jpg)
+![tfa-scam4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam4.jpg)
 
 :::
 

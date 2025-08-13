@@ -2,7 +2,7 @@
 <h2 id="账号异常" tabindex="-1"><a class="header-anchor" href="#账号异常"><span>账号异常</span></a></h2>
 <p>有人突然通知你账号异常或存在风险，让你去找某个机器人/登录某个网站解除限制。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam1.jpg" alt="tfa-scam1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam1.jpg" alt="tfa-scam1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam1.jpg</figcaption></figure>
 </details>
 <div class="hint-container note">
 <p class="hint-container-title">骗术解析</p>
@@ -22,7 +22,7 @@
 <p>有人宣称“不玩了”，临退出前还惦记着大伙，把自己的助记词发到群里，要把财富分享出来。你一查，发现钱包里真有100U。</p>
 <p>当你满心欢喜准备把这笔钱转出来时，却被提示能量不足，缺少TRX。面对近在咫尺的财富，你一咬牙，充了40TRX。可没想到，刚充进去，TRX瞬间就被转走了，那100U也怎么都转不出来。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam2.jpg" alt="tfa-scam2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam2.jpg" alt="tfa-scam2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam2.jpg</figcaption></figure>
 </details>
 <div class="hint-container note">
 <p class="hint-container-title">骗术解析</p>
@@ -33,8 +33,8 @@
 <h2 id="高价购买用户名" tabindex="-1"><a class="header-anchor" href="#高价购买用户名"><span>高价购买用户名</span></a></h2>
 <p>有用户找到你，说愿意用2000TON购买你的用户名，在Fragment平台上交易。然后他会给你发一个“看似”是官方的链接，引导你前去交易。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam3.jpg" alt="tfa-scam3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam3.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scam4.jpg" alt="tfa-scam4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam3.jpg" alt="tfa-scam3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scam4.jpg" alt="tfa-scam4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scam4.jpg</figcaption></figure>
 </details>
 <div class="hint-container note">
 <p class="hint-container-title">骗术解析</p>

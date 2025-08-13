@@ -28,7 +28,7 @@ head:
 
     ::: details 操作演示
 
-    ![tfa-id.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/id.jpg)
+    ![tfa-id.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/id.jpg)
 
     :::
 

@@ -23,7 +23,7 @@ head:
 
 ::: details 操作演示
 
-![tfa-createrobot1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createrobot1.jpg)
+![tfa-createrobot1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createrobot1.jpg)
 
 :::
 
@@ -41,7 +41,7 @@ head:
 
    ::: details 界面截图
 
-   ![tfa-createrobot2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createrobot2.jpg)
+   ![tfa-createrobot2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createrobot2.jpg)
 
    :::
 

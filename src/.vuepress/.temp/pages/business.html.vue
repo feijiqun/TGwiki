@@ -38,7 +38,7 @@
 </li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/business.jpg" alt="tfa-business.jpg" tabindex="0" loading="lazy"><figcaption>tfa-business.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/business.jpg" alt="tfa-business.jpg" tabindex="0" loading="lazy"><figcaption>tfa-business.jpg</figcaption></figure>
 </details>
 <h2 id="开通方式" tabindex="-1"><a class="header-anchor" href="#开通方式"><span>开通方式</span></a></h2>
 <p>截至Telegram For Android <code v-pre>v11.12.0</code>、Telegram Desktop <code v-pre>v5.15.3</code>，Telegram Premium用户可以暂时体验Telegram Business的全部功能。Telegram官方称会单独增加Telegram Business订阅，具体时间未知。</p>

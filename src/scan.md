@@ -13,7 +13,7 @@ head:
 
    ::: details 操作演示
 
-   ![tfa-scan.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scan.jpg)
+   ![tfa-scan.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scan.jpg)
 
    :::
 
@@ -25,6 +25,6 @@ head:
 
 ::: details 界面截图
 
-![tfa-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/device.jpg)
+![tfa-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/device.jpg)
 
 :::

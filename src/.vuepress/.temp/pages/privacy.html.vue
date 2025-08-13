@@ -1,8 +1,8 @@
 <template><div><p><code v-pre>设置</code>-&gt;<code v-pre>隐私</code>：</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy1.jpg" alt="tfa-privacy1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy2.jpg" alt="tfa-privacy2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy2.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy3.jpg" alt="tfa-privacy3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy1.jpg" alt="tfa-privacy1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy2.jpg" alt="tfa-privacy2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy3.jpg" alt="tfa-privacy3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-privacy3.jpg</figcaption></figure>
 </details>
 <h2 id="账号安全" tabindex="-1"><a class="header-anchor" href="#账号安全"><span>账号安全</span></a></h2>
 <h3 id="两步验证" tabindex="-1"><a class="header-anchor" href="#两步验证"><span>两步验证</span></a></h3>
@@ -13,7 +13,7 @@
 <p>为避免忘记两步验证密码，请务必设置恢复邮箱。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/2fa.jpg" alt="tfa-2fa.jpg" tabindex="0" loading="lazy"><figcaption>tfa-2fa.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/2fa.jpg" alt="tfa-2fa.jpg" tabindex="0" loading="lazy"><figcaption>tfa-2fa.jpg</figcaption></figure>
 </details>
 <h3 id="自动删除" tabindex="-1"><a class="header-anchor" href="#自动删除"><span>自动删除</span></a></h3>
 <p>如果启用，您发起的聊天中所有新消息将在发送后的某个时间点自动删除。</p>
@@ -39,7 +39,7 @@
 <p>为了您的账号安全，不认识的会话请务必强制终止。</p>
 </div>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/device.jpg" alt="tfa-device.jpg" tabindex="0" loading="lazy"><figcaption>tfa-device.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/device.jpg" alt="tfa-device.jpg" tabindex="0" loading="lazy"><figcaption>tfa-device.jpg</figcaption></figure>
 </details>
 <h2 id="账号隐私" tabindex="-1"><a class="header-anchor" href="#账号隐私"><span>账号隐私</span></a></h2>
 <h3 id="手机号码" tabindex="-1"><a class="header-anchor" href="#手机号码"><span>手机号码</span></a></h3>

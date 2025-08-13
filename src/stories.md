@@ -26,7 +26,7 @@ head:
 
 ::: details 操作演示
 
-![tfa-stories.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/stories.jpg)
+![tfa-stories.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/stories.jpg)
 
 :::
 

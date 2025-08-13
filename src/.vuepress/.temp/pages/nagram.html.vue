@@ -12,7 +12,7 @@
 <h2 id="通用" tabindex="-1"><a class="header-anchor" href="#通用"><span>通用</span></a></h2>
 <h3 id="翻译" tabindex="-1"><a class="header-anchor" href="#翻译"><span>翻译 <a href="https://t.me/nasettings/general?r=TranslationProvider" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/general1.jpg" alt="na-general1.jpg" tabindex="0" loading="lazy"><figcaption>na-general1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/general1.jpg" alt="na-general1.jpg" tabindex="0" loading="lazy"><figcaption>na-general1.jpg</figcaption></figure>
 </details>
 <ul>
 <li>
@@ -37,7 +37,7 @@
 </ul>
 <h3 id="文件夹-对话分组" tabindex="-1"><a class="header-anchor" href="#文件夹-对话分组"><span>文件夹（对话分组） <a href="https://t.me/nasettings/general?r=HideAllTab" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/general2.jpg" alt="na-general2.jpg" tabindex="0" loading="lazy"><figcaption>na-general2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/general2.jpg" alt="na-general2.jpg" tabindex="0" loading="lazy"><figcaption>na-general2.jpg</figcaption></figure>
 </details>
 <ul>
 <li>隐藏“全部对话”：开启后，将不再显示“全部对话”分组。你可以在主页按“返回”按钮打开“全部对话”。</li>
@@ -49,7 +49,7 @@
 </ul>
 <h3 id="外观" tabindex="-1"><a class="header-anchor" href="#外观"><span>外观 <a href="https://t.me/nasettings/general?r=TypefaceUseDefault" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/general3.jpg" alt="na-general3.jpg" tabindex="0" loading="lazy"><figcaption>na-general3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/general3.jpg" alt="na-general3.jpg" tabindex="0" loading="lazy"><figcaption>na-general3.jpg</figcaption></figure>
 </details>
 <ul>
 <li>一直显示圣诞帽：在主界面标题（”Nagram“）显示圣诞帽，重启应用生效。</li>
@@ -66,7 +66,7 @@
 </ul>
 <h3 id="通用-1" tabindex="-1"><a class="header-anchor" href="#通用-1"><span>通用 <a href="https://t.me/nasettings/general?r=CustomTitle" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/general4.jpg" alt="na-general4.jpg" tabindex="0" loading="lazy"><figcaption>na-general4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/general4.jpg" alt="na-general4.jpg" tabindex="0" loading="lazy"><figcaption>na-general4.jpg</figcaption></figure>
 </details>
 <ul>
 <li>自定义标题：自定义主界面顶部的标题</li>
@@ -79,7 +79,7 @@
 <h2 id="聊天" tabindex="-1"><a class="header-anchor" href="#聊天"><span>聊天</span></a></h2>
 <h3 id="聊天-1" tabindex="-1"><a class="header-anchor" href="#聊天-1"><span>聊天 <a href="https://t.me/nasettings/chat?r=EmojiSet" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat1.jpg" alt="na-chat1.jpg" tabindex="0" loading="lazy"><figcaption>na-chat1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat1.jpg" alt="na-chat1.jpg" tabindex="0" loading="lazy"><figcaption>na-chat1.jpg</figcaption></figure>
 </details>
 <ul>
 <li>
@@ -94,7 +94,7 @@
 <li>
 <p>消息菜单：设置轻点消息时显示的菜单</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat2.jpg" alt="na-chat2.jpg" tabindex="0" loading="lazy"><figcaption>na-chat2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat2.jpg" alt="na-chat2.jpg" tabindex="0" loading="lazy"><figcaption>na-chat2.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -124,7 +124,7 @@
 </ul>
 <h3 id="交互" tabindex="-1"><a class="header-anchor" href="#交互"><span>交互 <a href="https://t.me/nasettings/chat?r=HideKeyboardOnChatScroll" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat3.jpg" alt="na-chat3.jpg" tabindex="0" loading="lazy"><figcaption>na-chat3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat3.jpg" alt="na-chat3.jpg" tabindex="0" loading="lazy"><figcaption>na-chat3.jpg</figcaption></figure>
 </details>
 <ul>
 <li>
@@ -133,7 +133,7 @@
 <li>
 <p>禁用趋势推荐：您可以在此处禁用一些TG内的一些通知和功能。例如Premium升级通知（在对话列表顶部推荐你订阅Premium的通知）等。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat4.jpg" alt="na-chat4.jpg" tabindex="0" loading="lazy"><figcaption>na-chat4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat4.jpg" alt="na-chat4.jpg" tabindex="0" loading="lazy"><figcaption>na-chat4.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -154,7 +154,7 @@
 </ul>
 <h3 id="贴纸" tabindex="-1"><a class="header-anchor" href="#贴纸"><span>贴纸 <a href="https://t.me/nasettings/chat?r=DontSendGreetingSticker" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat5.jpg" alt="na-chat5.jpg" tabindex="0" loading="lazy"><figcaption>na-chat5.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat5.jpg" alt="na-chat5.jpg" tabindex="0" loading="lazy"><figcaption>na-chat5.jpg</figcaption></figure>
 </details>
 <ul>
 <li>
@@ -180,7 +180,7 @@
 </ul>
 <h2 id="实验性功能" tabindex="-1"><a class="header-anchor" href="#实验性功能"><span>实验性功能 <a href="https://t.me/nasettings/experimental?r=channelAlias" target="_blank" rel="noopener noreferrer"><Badge text="直达" vertical="middle" /></a></span></a></h2>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/na/experimental.jpg" alt="na-experimental.jpg" tabindex="0" loading="lazy"><figcaption>na-experimental.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/na/experimental.jpg" alt="na-experimental.jpg" tabindex="0" loading="lazy"><figcaption>na-experimental.jpg</figcaption></figure>
 </details>
 <ul>
 <li>频道别名：您可以为每个频道标记别名（频道信息右上角三个点-&gt;<code v-pre>标记别名</code>），本地生效。</li>

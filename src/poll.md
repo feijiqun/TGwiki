@@ -35,7 +35,7 @@ Telegram客户端官方已添加"投票"功能，可以实时显示投票人数�
 
   ::: details 操作演示
 
-  ![tfa-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/poll.jpg)
+  ![tfa-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/poll.jpg)
 
   :::
 
@@ -44,7 +44,7 @@ Telegram客户端官方已添加"投票"功能，可以实时显示投票人数�
 
   ::: details 操作演示
 
-  ![td-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/poll.jpg)
+  ![td-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/poll.jpg)
 
   :::
 

@@ -5,7 +5,7 @@
 <li>
 <p>自Android/iOS 版Telegram <code v-pre>11.6</code>版本起，Telegram支持扫描指向公开链接的二维码。用户可以通过拍摄“动态 (Stories)”的相机扫描。需要注意的是，大多数地区的用户需要订阅Telegram Premium后才能使用动态功能。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/scan.jpg" alt="tfa-scan.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scan.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/scan.jpg" alt="tfa-scan.jpg" tabindex="0" loading="lazy"><figcaption>tfa-scan.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -19,7 +19,7 @@
 </li>
 </ol>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/device.jpg" alt="tfa-device.jpg" tabindex="0" loading="lazy"><figcaption>tfa-device.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/device.jpg" alt="tfa-device.jpg" tabindex="0" loading="lazy"><figcaption>tfa-device.jpg</figcaption></figure>
 </details>
 </div></template>
 

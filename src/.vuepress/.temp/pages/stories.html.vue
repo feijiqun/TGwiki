@@ -14,7 +14,7 @@
 <p>目前已知的无需订阅Premium就可以发布动态的国家/地区：澳大利亚、阿塞拜疆、白俄罗斯、塞浦路斯、爱沙尼亚、德国、伊拉克、以色列、哈萨克斯坦、吉尔吉斯斯坦、老挝、摩洛哥、波兰、葡萄牙、罗马尼亚、斯洛文尼亚、斯里兰卡、瑞典、泰国、土耳其、英国、乌兹别克斯坦、印度尼西亚、美国、越南、埃塞俄比亚、中国、日本、阿根廷、象牙海岸、巴西、蒙古、不丹、科索沃、波利尼西亚</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/stories.jpg" alt="tfa-stories.jpg" tabindex="0" loading="lazy"><figcaption>tfa-stories.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/stories.jpg" alt="tfa-stories.jpg" tabindex="0" loading="lazy"><figcaption>tfa-stories.jpg</figcaption></figure>
 </details>
 <h2 id="查看动态" tabindex="-1"><a class="header-anchor" href="#查看动态"><span>查看动态</span></a></h2>
 <ul>

@@ -19,7 +19,7 @@ head:
 
 ::: details 界面截图
 
-![tfa-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser1.jpg)
+![tfa-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/browser1.jpg)
 
 :::
 
@@ -29,7 +29,7 @@ head:
 
 ::: details 操作演示
 
-![tfa-browser2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser2.jpg)
+![tfa-browser2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/browser2.jpg)
 
 :::
 

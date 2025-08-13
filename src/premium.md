@@ -34,11 +34,11 @@ head:
 
 ::: details 界面截图
 
-![tfa-premium1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/premium1.jpg)
+![tfa-premium1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/premium1.jpg)
 
-![tfa-premium2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/premium2.jpg)
+![tfa-premium2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/premium2.jpg)
 
-![tfa-premium3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/premium3.jpg)
+![tfa-premium3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/premium3.jpg)
 
 :::
 

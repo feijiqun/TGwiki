@@ -41,6 +41,6 @@ Telegram用户现在可以互相发送Telegram Stars礼物——用动画艺术�
 
 ::: details 界面截图
 
-![tfa-stars.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/stars.jpg)
+![tfa-stars.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/stars.jpg)
 
 :::

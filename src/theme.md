@@ -25,6 +25,6 @@ Telegram客户端可以设置各式各样的主题。
 
 ::: details 操作演示
 
-![tfa-theme.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/theme.jpg)
+![tfa-theme.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/theme.jpg)
 
 :::

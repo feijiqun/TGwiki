@@ -1,7 +1,7 @@
 <template><div><p><strong>开启方法</strong>：<code v-pre>频道管理</code>-&gt;<code v-pre>关联群组</code>-&gt;<code v-pre>添加一个群组</code></p>
 <p>在频道发送的消息都会在消息下面显示&quot;评论&quot;按钮，点击即可评论当前频道消息，评论的消息也同步显示在关联群组中。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/comment.jpg" alt="tfa-comment.jpg" tabindex="0" loading="lazy"><figcaption>tfa-comment.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/comment.jpg" alt="tfa-comment.jpg" tabindex="0" loading="lazy"><figcaption>tfa-comment.jpg</figcaption></figure>
 </details>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>

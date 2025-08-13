@@ -34,8 +34,8 @@
 <p>参考话术：</p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-"><span class="line"><span>I have just registered the account. I didn't do anything before. I have NEVER broken the rules. It must be a mistake. Please help me check it.</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam1.jpg" alt="tfa-spam1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam2.jpg" alt="tfa-spam2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam1.jpg" alt="tfa-spam1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam2.jpg" alt="tfa-spam2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam2.jpg</figcaption></figure>
 </details>
 <h2 id="公开消息限制" tabindex="-1"><a class="header-anchor" href="#公开消息限制"><span>公开消息限制</span></a></h2>
 <p>如果你收到的通知是<code v-pre>你的账号被Telegram官方限制了, 不能在公开群和(或)主动私聊发送消息</code>。</p>
@@ -52,7 +52,7 @@
 <li>
 <p>如果Bot回复的消息里有说明了解封时间，到时间会自动解封，耐心等待即可，不能提前解封。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/td/spam.jpg" alt="td-spam.jpg" tabindex="0" loading="lazy"><figcaption>td-spam.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/spam.jpg" alt="td-spam.jpg" tabindex="0" loading="lazy"><figcaption>td-spam.jpg</figcaption></figure>
 </details>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
@@ -66,7 +66,7 @@
 <h2 id="滥用限制" tabindex="-1"><a class="header-anchor" href="#滥用限制"><span>滥用限制</span></a></h2>
 <p>如果你收到的消息是：<code v-pre>I'm afraid our users reported some of the public content you posted on telegram in the past as illegal and our moderators have confirmed it and taken the content down... </code>消息最后结尾是一个邮箱<code v-pre>abuse@telegram.org</code>。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam3.jpg" alt="tfa-spam3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam3.jpg" alt="tfa-spam3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-spam3.jpg</figcaption></figure>
 </details>
 <h3 id="具体原因-2" tabindex="-1"><a class="header-anchor" href="#具体原因-2"><span>具体原因</span></a></h3>
 <p>账号在公开频道/群组中发布的内容被其他用户举报并由版主核实，Telegram认为你有滥用行为。被限制后将无法在公开群组中发言，同时也无法创建新的频道/群组。</p>

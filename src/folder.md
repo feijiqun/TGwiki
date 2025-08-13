@@ -35,7 +35,7 @@ Telegram客户端版本要求：
 
 ::: details 操作演示
 
-![tfa-divide.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/folder.jpg)
+![tfa-divide.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/folder.jpg)
 
 :::
 

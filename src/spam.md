@@ -55,9 +55,9 @@ I have just registered the account. I didn't do anything before. I have NEVER br
 
 ::: details 操作演示
 
-![tfa-spam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam1.jpg)
+![tfa-spam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam1.jpg)
 
-![tfa-spam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam2.jpg)
+![tfa-spam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam2.jpg)
 
 :::
 
@@ -80,7 +80,7 @@ I have just registered the account. I didn't do anything before. I have NEVER br
 
    ::: details 界面截图
 
-   ![td-spam.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/spam.jpg)
+   ![td-spam.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/spam.jpg)
 
    :::
 
@@ -98,7 +98,7 @@ I have just registered the account. I didn't do anything before. I have NEVER br
 
 ::: details 界面截图
 
-![tfa-spam3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam3.jpg)
+![tfa-spam3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/spam3.jpg)
 
 :::
 

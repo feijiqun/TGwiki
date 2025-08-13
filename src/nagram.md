@@ -31,7 +31,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-general1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/general1.jpg)
+![na-general1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/general1.jpg)
 
 :::
 
@@ -55,7 +55,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-general2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/general2.jpg)
+![na-general2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/general2.jpg)
 
 :::
 
@@ -70,7 +70,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-general3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/general3.jpg)
+![na-general3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/general3.jpg)
 
 :::
 
@@ -90,7 +90,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-general4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/general4.jpg)
+![na-general4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/general4.jpg)
 
 :::
 
@@ -107,7 +107,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-chat1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat1.jpg)
+![na-chat1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat1.jpg)
 
 :::
 
@@ -121,7 +121,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
   ::: details 操作演示
 
-  ![na-chat2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat2.jpg)
+  ![na-chat2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat2.jpg)
 
   :::
 
@@ -145,7 +145,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-chat3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat3.jpg)
+![na-chat3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat3.jpg)
 
 :::
 
@@ -155,7 +155,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
   ::: details 操作演示
 
-  ![na-chat4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat4.jpg)
+  ![na-chat4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat4.jpg)
 
   :::
 
@@ -173,7 +173,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-chat5.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/chat5.jpg)
+![na-chat5.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/chat5.jpg)
 
 :::
 
@@ -200,7 +200,7 @@ Nagram是一个基于NekoX并进行了一些修改的第三方Telegram客户端�
 
 ::: details 界面截图
 
-![na-experimental.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/na/experimental.jpg)
+![na-experimental.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/na/experimental.jpg)
 
 :::
 

@@ -23,6 +23,6 @@ head:
 
 ::: details 界面截图
 
-![tfa-favourite.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/favourite.jpg)
+![tfa-favourite.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/favourite.jpg)
 
 :::

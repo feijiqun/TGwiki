@@ -23,8 +23,8 @@
 <p>发送图片给机器人，未压缩图片。 然后发送emoji表情，将表情和图片进行关联。</p>
 <p>重复进行操作，直至上传完成所有的。 发送 <code v-pre>/publish</code> 命令结束上传。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createsticker1.jpg" alt="tfa-createsticker1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createsticker1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createsticker2.jpg" alt="tfa-createsticker2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createsticker2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createsticker1.jpg" alt="tfa-createsticker1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createsticker1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createsticker2.jpg" alt="tfa-createsticker2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createsticker2.jpg</figcaption></figure>
 </details>
 </li>
 <li>

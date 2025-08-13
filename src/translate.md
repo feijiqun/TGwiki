@@ -20,9 +20,9 @@ head:
 
   ::: details 操作演示
 
-  ![tfa-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/language.jpg)
+  ![tfa-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/language.jpg)
 
-  ![tfa-translate.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/translate.jpg)
+  ![tfa-translate.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/translate.jpg)
 
   :::
 

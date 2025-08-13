@@ -17,7 +17,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
 ::: details 界面截图
 
-![turrit-1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/1.jpg)
+![turrit-1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/1.jpg)
 
 :::
 
@@ -41,7 +41,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
 ::: details 界面截图
 
-![turrit-2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/2.jpg)
+![turrit-2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/2.jpg)
 
 :::
 
@@ -56,7 +56,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
 ::: details 界面截图
 
-![turrit-3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/3.jpg)
+![turrit-3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/3.jpg)
 
 :::
 
@@ -71,7 +71,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
 ::: details 操作演示
 
-![turrit-4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/4.jpg)
+![turrit-4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/4.jpg)
 
 :::
 
@@ -87,7 +87,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
 ::: details 界面截图
 
-![turrit-5.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/5.jpg)
+![turrit-5.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/5.jpg)
 
 :::
 
@@ -109,7 +109,7 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
   ::: details 界面截图
 
-  ![turrit-6.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/6.jpg)
+  ![turrit-6.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/6.jpg)
 
   :::
 
@@ -125,6 +125,6 @@ Turrit基于Telegram基础上加入了更实用的拓展，改进和简化了交
 
   ::: details 操作演示
 
-  ![turrit-7.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/turrit/7.jpg)
+  ![turrit-7.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/7.jpg)
 
   :::

@@ -18,8 +18,8 @@ head:
 
 ::: details 操作演示
 
-![tfa-create.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/create.jpg)
+![tfa-create.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/create.jpg)
 
-![td-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/menu.jpg)
+![td-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/menu.jpg)
 
 :::

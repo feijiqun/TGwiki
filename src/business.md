@@ -41,7 +41,7 @@ Telegram于`10.9.1`版本中推出了Telegram商业版（Telegram Business），
 
 ::: details 界面截图
 
-![tfa-business.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/business.jpg)
+![tfa-business.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/business.jpg)
 
 :::
 

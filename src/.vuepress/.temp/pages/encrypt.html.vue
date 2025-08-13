@@ -12,7 +12,7 @@
 <p>请记住，Telegram加密对话是特定于设备的。如果您在其中一台设备上与朋友开始加密对话，则该聊天将仅在该设备上可用。如果您退出，您将丢失所有加密对话记录。您可以根据需要与同一联系人创建任意多个不同的加密对话。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/encrypt.jpg" alt="tfa-encrypt.jpg" tabindex="0" loading="lazy"><figcaption>tfa-encrypt.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/encrypt.jpg" alt="tfa-encrypt.jpg" tabindex="0" loading="lazy"><figcaption>tfa-encrypt.jpg</figcaption></figure>
 </details>
 <h2 id="消息自毁" tabindex="-1"><a class="header-anchor" href="#消息自毁"><span>消息自毁</span></a></h2>
 <p>自毁计时器适用于加密对话中的所有消息以及私有云聊天中的媒体。</p>

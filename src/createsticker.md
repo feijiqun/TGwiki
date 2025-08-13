@@ -37,9 +37,9 @@ head:
 
    ::: details 操作演示
 
-   ![tfa-createsticker1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createsticker1.jpg)
+   ![tfa-createsticker1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createsticker1.jpg)
 
-   ![tfa-createsticker2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createsticker2.jpg)
+   ![tfa-createsticker2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createsticker2.jpg)
 
    :::
 
