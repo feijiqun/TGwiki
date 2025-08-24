@@ -1,6 +1,6 @@
 <template><div><p>登录时候提示<code v-pre>This phone number is banned</code>（<code v-pre>此手机号码已被封禁</code>），说明此手机号已经被Telegram官方封禁了，不能登录也不能注销。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/banned.jpg" alt="tfa-banned.jpg" tabindex="0" loading="lazy"><figcaption>tfa-banned.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/banned.jpg" alt="tfa-banned.jpg" tabindex="0" loading="lazy"><figcaption>tfa-banned.jpg</figcaption></figure>
 </details>
 <h2 id="解封方法" tabindex="-1"><a class="header-anchor" href="#解封方法"><span>解封方法</span></a></h2>
 <h3 id="方法一" tabindex="-1"><a class="header-anchor" href="#方法一"><span>方法一</span></a></h3>

@@ -40,7 +40,7 @@
 <li>手机：点击界面的右上角3个点，选择<code v-pre>Open in…</code>用浏览器打开，滑倒文章底部即可看到 <code v-pre>EDIT</code></li>
 </ul>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/telegraph.jpg" alt="tfa-telegraph.jpg" tabindex="0" loading="lazy"><figcaption>tfa-telegraph.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/telegraph.jpg" alt="tfa-telegraph.jpg" tabindex="0" loading="lazy"><figcaption>tfa-telegraph.jpg</figcaption></figure>
 </details>
 <h2 id="使用技巧" tabindex="-1"><a class="header-anchor" href="#使用技巧"><span>使用技巧</span></a></h2>
 <h3 id="让文章链接更美观" tabindex="-1"><a class="header-anchor" href="#让文章链接更美观"><span>让文章链接更美观</span></a></h3>

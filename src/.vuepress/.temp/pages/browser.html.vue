@@ -8,12 +8,12 @@
 <li>你可以点击右上角按钮在外部浏览器中打开网页</li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/browser1.jpg" alt="tfa-browser1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/browser1.jpg" alt="tfa-browser1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser1.jpg</figcaption></figure>
 </details>
 <h2 id="设置" tabindex="-1"><a class="header-anchor" href="#设置"><span>设置</span></a></h2>
 <p>你可以通过内置浏览器页面右上角<code v-pre>设置</code>按钮，修改有关设置。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/browser2.jpg" alt="tfa-browser2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/browser2.jpg" alt="tfa-browser2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-browser2.jpg</figcaption></figure>
 </details>
 <p>可以设置的项目：</p>
 <ul>

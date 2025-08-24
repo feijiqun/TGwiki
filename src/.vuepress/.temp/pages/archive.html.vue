@@ -7,7 +7,7 @@
 <li>&quot;已归档对话&quot;一栏，向左滑动可以隐藏，对话列表下拉即可显示出&quot;已归档对话&quot;一栏，再向左滑就可以置顶显示。</li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/archive.jpg" alt="tfa-archive.jpg" tabindex="0" loading="lazy"><figcaption>tfa-archive.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/archive.jpg" alt="tfa-archive.jpg" tabindex="0" loading="lazy"><figcaption>tfa-archive.jpg</figcaption></figure>
 </details>
 <h2 id="桌面端" tabindex="-1"><a class="header-anchor" href="#桌面端"><span>桌面端</span></a></h2>
 <ul>
@@ -17,7 +17,7 @@
 <li>Desktop 客户端，对话列表顶部&quot;已归档对话&quot;，可以右键-&gt;<code v-pre>移动至主菜单</code>；如果已移动至主菜单，可以点击左上角三短线进入&quot;已归档对话&quot;，右键可以移动至对话列表。</li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/archive.jpg" alt="td-archive.jpg" tabindex="0" loading="lazy"><figcaption>td-archive.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/td/archive.jpg" alt="td-archive.jpg" tabindex="0" loading="lazy"><figcaption>td-archive.jpg</figcaption></figure>
 </details>
 <h2 id="其他" tabindex="-1"><a class="header-anchor" href="#其他"><span>其他</span></a></h2>
 <ul>

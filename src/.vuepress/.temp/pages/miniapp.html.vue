@@ -14,8 +14,8 @@
 <li>与区块链交互：小程序可以与区块链和智能合约直接交互，提高账户安全性。</li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp1.jpg" alt="tfa-miniapp1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp2.jpg" alt="tfa-miniapp2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp1.jpg" alt="tfa-miniapp1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp2.jpg" alt="tfa-miniapp2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp2.jpg</figcaption></figure>
 </details>
 <h2 id="创建小程序" tabindex="-1"><a class="header-anchor" href="#创建小程序"><span>创建小程序</span></a></h2>
 <ol>
@@ -28,19 +28,19 @@
 <li>
 <p>发送<code v-pre>/newapp</code>命令。选择你想要创建小程序的机器人。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp3.jpg" alt="tfa-miniapp3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp3.jpg" alt="tfa-miniapp3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp3.jpg</figcaption></figure>
 </details>
 </li>
 <li>
 <p>为你的小程序提供一个标题、简短的描述和一张图片（尺寸必须为<code v-pre>640</code>x<code v-pre>360</code>）。上传预览GIF（发送<code v-pre>/empty</code>跳过）。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp4.jpg" alt="tfa-miniapp4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp4.jpg" alt="tfa-miniapp4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp4.jpg</figcaption></figure>
 </details>
 </li>
 <li>
 <p>设置小程序打开时显示的URL。设置一个小程序短后缀（<code v-pre>3</code>~<code v-pre>30</code>字符），用户将可以使用<code v-pre>t.me/your_robot/short_name</code>链接直接打开小程序。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp5.jpg" alt="tfa-miniapp5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp5.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp5.jpg" alt="tfa-miniapp5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-miniapp5.jpg</figcaption></figure>
 </details>
 </li>
 <li>

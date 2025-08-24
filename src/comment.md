@@ -13,7 +13,7 @@ head:
 
 ::: details 界面截图
 
-![tfa-comment.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/comment.jpg)
+![tfa-comment.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/comment.jpg)
 
 :::
 

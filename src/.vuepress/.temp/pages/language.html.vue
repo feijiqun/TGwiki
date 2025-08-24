@@ -5,7 +5,7 @@
 <p>Telegram网页版不支持使用语言包。</p>
 </div>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/language.jpg" alt="tfa-language.jpg" tabindex="0" loading="lazy"><figcaption>tfa-language.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/language.jpg" alt="tfa-language.jpg" tabindex="0" loading="lazy"><figcaption>tfa-language.jpg</figcaption></figure>
 </details>
 <h2 id="简体中文语言包" tabindex="-1"><a class="header-anchor" href="#简体中文语言包"><span>简体中文语言包</span></a></h2>
 <ul>

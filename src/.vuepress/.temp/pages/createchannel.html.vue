@@ -7,8 +7,8 @@
 <li>macOS客户端：<code v-pre>主界面搜索框后面图标</code>-&gt;<code v-pre>新建频道</code></li>
 </ul>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/create.jpg" alt="tfa-create.jpg" tabindex="0" loading="lazy"><figcaption>tfa-create.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/menu.jpg" alt="td-menu.jpg" tabindex="0" loading="lazy"><figcaption>td-menu.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/create.jpg" alt="tfa-create.jpg" tabindex="0" loading="lazy"><figcaption>tfa-create.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/td/menu.jpg" alt="td-menu.jpg" tabindex="0" loading="lazy"><figcaption>td-menu.jpg</figcaption></figure>
 </details>
 </div></template>
 

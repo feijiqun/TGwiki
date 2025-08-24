@@ -30,7 +30,7 @@ Telegram如果你进入某个群或频道遇到如下提示：
 
 ::: details 操作演示
 
-![td-pornios.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/pornios.jpg)
+![td-pornios.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/pornios.jpg)
 
 :::
 
@@ -40,7 +40,7 @@ Telegram如果你进入某个群或频道遇到如下提示：
 
 ::: details 操作演示
 
-![tfa-pornios.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/pornios.jpg)
+![tfa-pornios.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/pornios.jpg)
 
 :::
 
@@ -60,7 +60,7 @@ Telegram如果你进入某个群或频道遇到如下提示：
 
 ::: details 操作演示
 
-![web-pornios1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/web/pornios1.jpg)
+![web-pornios1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/web/pornios1.jpg)
 
 :::
 
@@ -80,7 +80,7 @@ Telegram如果你进入某个群或频道遇到如下提示：
 
 ::: details 操作演示
 
-![web-pornios2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/web/pornios2.jpg)
+![web-pornios2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/web/pornios2.jpg)
 
 :::
 

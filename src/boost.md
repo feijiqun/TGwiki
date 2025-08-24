@@ -24,7 +24,7 @@ head:
 
 ::: details 界面截图
 
-![tfa-boost1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/boost1.jpg)
+![tfa-boost1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/boost1.jpg)
 
 :::
 
@@ -38,7 +38,7 @@ head:
 
   ::: details 界面截图
 
-  ![tfa-boost2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/boost2.jpg)
+  ![tfa-boost2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/boost2.jpg)
 
   :::
 

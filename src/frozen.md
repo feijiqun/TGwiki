@@ -18,9 +18,9 @@ Telegram在2025年4月推出了账号冻结。当Telegram官方认为你违反�
 
 ::: details 界面截图
 
-![tfa-frozen1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen1.jpg)
+![tfa-frozen1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen1.jpg)
 
-![tfa-frozen2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen2.jpg)
+![tfa-frozen2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen2.jpg)
 
 :::
 
@@ -40,7 +40,7 @@ Telegram在2025年4月推出了账号冻结。当Telegram官方认为你违反�
 
    ::: details 操作演示
 
-   ![tfa-frozen3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen3.jpg)
+   ![tfa-frozen3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen3.jpg)
 
    :::
 
@@ -74,7 +74,7 @@ Telegram在2025年4月推出了账号冻结。当Telegram官方认为你违反�
 
    ::: details 操作演示
 
-   ![tfa-frozen4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen4.jpg)
+   ![tfa-frozen4.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen4.jpg)
 
    :::
 
@@ -98,7 +98,7 @@ Telegram在2025年4月推出了账号冻结。当Telegram官方认为你违反�
 
    ::: details 操作演示
 
-   ![tfa-frozen5.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen5.jpg)
+   ![tfa-frozen5.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen5.jpg)
 
    :::
 

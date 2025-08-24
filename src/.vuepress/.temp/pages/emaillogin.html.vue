@@ -28,14 +28,14 @@
 <p>此步骤中的验证码只能以短信的形式发送，验证码不会发送到已登录的客户端！也就是说，如果您想要开启邮箱登录，您绑定的号码需要可以接收短信验证码。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/emaillogin1.jpg" alt="tfa-emaillogin1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-emaillogin1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/emaillogin2.jpg" alt="tfa-emaillogin2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-emaillogin2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/emaillogin1.jpg" alt="tfa-emaillogin1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-emaillogin1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/emaillogin2.jpg" alt="tfa-emaillogin2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-emaillogin2.jpg</figcaption></figure>
 </details>
 </li>
 <li>
 <p>开启邮箱登录后，在<code v-pre>隐私设置</code>中会新增一个<code v-pre>登录邮箱</code>字段。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy1.jpg" alt="privacy1.jpg" tabindex="0" loading="lazy"><figcaption>privacy1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/privacy1.jpg" alt="privacy1.jpg" tabindex="0" loading="lazy"><figcaption>privacy1.jpg</figcaption></figure>
 </details>
 </li>
 </ol>

@@ -7,8 +7,8 @@
 <li>账号冻结2周后会自动注销，同时账号状态转变为 <RouteLink to="/banned.html">封禁</RouteLink> 。</li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen1.jpg" alt="tfa-frozen1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen2.jpg" alt="tfa-frozen2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen1.jpg" alt="tfa-frozen1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen2.jpg" alt="tfa-frozen2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen2.jpg</figcaption></figure>
 </details>
 <h2 id="申诉步骤" tabindex="-1"><a class="header-anchor" href="#申诉步骤"><span>申诉步骤</span></a></h2>
 <ol>
@@ -24,7 +24,7 @@
 <p>点击输入框下方按钮<code v-pre>Yes</code></p>
 <p>Bot回复：<code v-pre>Please write us more details about your case. Why do you think your account was blocked, what went wrong?</code>（<code v-pre>请详细说明您的情况。您认为您的账号被封的原因是什么？出了什么问题？</code>）</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen3.jpg" alt="tfa-frozen3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen3.jpg" alt="tfa-frozen3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen3.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -47,7 +47,7 @@
 <p>输入你注册账号的年份，例如<code v-pre>2023</code>。</p>
 <p>Bot回复：<code v-pre>Please provide a brief general description outlining how you discovered Telegram and, if applicable, who invited you to join.</code>（<code v-pre>请提供一份简短的概述，概述您如何发现Telegram，以及（如果适用）谁邀请您加入</code>）</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen4.jpg" alt="tfa-frozen4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen4.jpg" alt="tfa-frozen4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen4.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -61,7 +61,7 @@
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-"><span class="line"><span>Work communication, enjoy the Telegram ecosystem</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>Bot回复：<code v-pre>By submitting this appeal, you hereby acknowledge and agree that all the information you provided is accurate and truthful...</code>（<code v-pre>提交此申诉，即表示您确认并同意您提供的所有信息均准确真实</code>）</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/frozen5.jpg" alt="tfa-frozen5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen5.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/frozen5.jpg" alt="tfa-frozen5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-frozen5.jpg</figcaption></figure>
 </details>
 </li>
 <li>

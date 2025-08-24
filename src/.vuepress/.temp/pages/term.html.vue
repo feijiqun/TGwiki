@@ -16,7 +16,7 @@
 <li>
 <p>可以使用机器人查看，比如：<a href="https://t.me/getidsbot" target="_blank" rel="noopener noreferrer">@getidsbot</a> <a href="https://t.me/Sean_Bot" target="_blank" rel="noopener noreferrer">@Sean_Bot</a> <a href="https://t.me/userinfobot" target="_blank" rel="noopener noreferrer">@userinfobot</a><a href="https://t.me/username_to_id_bot" target="_blank" rel="noopener noreferrer"> @username_to_id_bot</a></p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/id.jpg" alt="tfa-id.jpg" tabindex="0" loading="lazy"><figcaption>tfa-id.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/id.jpg" alt="tfa-id.jpg" tabindex="0" loading="lazy"><figcaption>tfa-id.jpg</figcaption></figure>
 </details>
 </li>
 <li>

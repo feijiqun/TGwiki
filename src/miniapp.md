@@ -28,9 +28,9 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 
 ::: details 界面截图
 
-![tfa-miniapp1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp1.jpg)
+![tfa-miniapp1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp1.jpg)
 
-![tfa-miniapp2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp2.jpg)
+![tfa-miniapp2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp2.jpg)
 
 :::
 
@@ -44,7 +44,7 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 
    ::: details 操作演示
 
-   ![tfa-miniapp3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp3.jpg)
+   ![tfa-miniapp3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp3.jpg)
 
    :::
 
@@ -52,7 +52,7 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 
    ::: details 操作演示
 
-   ![tfa-miniapp4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp4.jpg)
+   ![tfa-miniapp4.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp4.jpg)
 
    :::
 
@@ -60,7 +60,7 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 
    ::: details 操作演示
 
-   ![tfa-miniapp5.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/miniapp5.jpg)
+   ![tfa-miniapp5.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/miniapp5.jpg)
 
    :::
 

@@ -14,12 +14,12 @@
 <h3 id="方法一" tabindex="-1"><a class="header-anchor" href="#方法一"><span>方法一</span></a></h3>
 <p>打开Telegram Desktop客户端（适用于Windows/macOS），左上角三短线：<code v-pre>设置</code>-&gt;<code v-pre>外观</code>-&gt;开启<code v-pre>显示18+内容</code>；</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/pornios.jpg" alt="td-pornios.jpg" tabindex="0" loading="lazy"><figcaption>td-pornios.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/td/pornios.jpg" alt="td-pornios.jpg" tabindex="0" loading="lazy"><figcaption>td-pornios.jpg</figcaption></figure>
 </details>
 <h3 id="方法二" tabindex="-1"><a class="header-anchor" href="#方法二"><span>方法二</span></a></h3>
 <p>打开Telegram for Android客户端，<code v-pre>设置</code>-&gt;<code v-pre>外观</code>-&gt;打开<code v-pre>显示18+内容</code>。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/pornios.jpg" alt="tfa-pornios.jpg" tabindex="0" loading="lazy"><figcaption>tfa-pornios.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/pornios.jpg" alt="tfa-pornios.jpg" tabindex="0" loading="lazy"><figcaption>tfa-pornios.jpg</figcaption></figure>
 </details>
 <h3 id="方法三" tabindex="-1"><a class="header-anchor" href="#方法三"><span>方法三</span></a></h3>
 <ul>
@@ -33,7 +33,7 @@
 <p>如果你在Telegram直接打开链接，就无法看到Telegram上的验证码了。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/web/pornios1.jpg" alt="web-pornios1.jpg" tabindex="0" loading="lazy"><figcaption>web-pornios1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/web/pornios1.jpg" alt="web-pornios1.jpg" tabindex="0" loading="lazy"><figcaption>web-pornios1.jpg</figcaption></figure>
 </details>
 <h3 id="方式四" tabindex="-1"><a class="header-anchor" href="#方式四"><span>方式四</span></a></h3>
 <ul>
@@ -47,7 +47,7 @@
 <p>如果你在Telegram直接打开链接，就无法看到Telegram上的验证码了。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/web/pornios2.jpg" alt="web-pornios2.jpg" tabindex="0" loading="lazy"><figcaption>web-pornios2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/web/pornios2.jpg" alt="web-pornios2.jpg" tabindex="0" loading="lazy"><figcaption>web-pornios2.jpg</figcaption></figure>
 </details>
 <h2 id="开心使用" tabindex="-1"><a class="header-anchor" href="#开心使用"><span>开心使用</span></a></h2>
 <p>通过上面四种方式的任意一种开启后，再通过下面三种方式之一来开始使用Telegram。</p>

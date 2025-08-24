@@ -15,7 +15,7 @@
 <h2 id="购买星币" tabindex="-1"><a class="header-anchor" href="#购买星币"><span>购买星币</span></a></h2>
 <p>星币可以通过Apple、Google或 <a href="https://t.me/PremiumBot" target="_blank" rel="noopener noreferrer">@PremiumBot</a> 在应用内购买获得，具体价格可能会因地区不同有所差异。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/stars.jpg" alt="tfa-stars.jpg" tabindex="0" loading="lazy"><figcaption>tfa-stars.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/stars.jpg" alt="tfa-stars.jpg" tabindex="0" loading="lazy"><figcaption>tfa-stars.jpg</figcaption></figure>
 </details>
 </div></template>
 

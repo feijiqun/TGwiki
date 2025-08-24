@@ -22,7 +22,7 @@
 </ol>
 <p>此外，您可以创建链接分享你的分组（不能分享联系人、私有频道和私有群组）。其他人点击链接可以直接添加分组。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/folder.jpg" alt="tfa-divide.jpg" tabindex="0" loading="lazy"><figcaption>tfa-divide.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/folder.jpg" alt="tfa-divide.jpg" tabindex="0" loading="lazy"><figcaption>tfa-divide.jpg</figcaption></figure>
 </details>
 <h2 id="操作方法" tabindex="-1"><a class="header-anchor" href="#操作方法"><span>操作方法:</span></a></h2>
 <ul>

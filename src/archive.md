@@ -18,7 +18,7 @@ head:
 
 ::: details 界面截图
 
-![tfa-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/archive.jpg)
+![tfa-archive.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/archive.jpg)
 
 :::
 
@@ -31,7 +31,7 @@ head:
 
 ::: details 界面截图
 
-![td-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/archive.jpg)
+![td-archive.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/archive.jpg)
 
 :::
 

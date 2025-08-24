@@ -17,7 +17,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![tfa-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/format1.jpg)
+  ![tfa-format1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/format1.jpg)
 
   :::
 
@@ -25,7 +25,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![td-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/format1.jpg)
+  ![td-format1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/format1.jpg)
 
   :::
 
@@ -37,7 +37,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![tfa-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/format2.jpg)
+  ![tfa-format2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/format2.jpg)
 
   :::
 
@@ -45,7 +45,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![td-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/format2.jpg)
+  ![td-format2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/format2.jpg)
 
   :::
 
@@ -58,9 +58,9 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
 ::: details 操作演示
 
-![tfa-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/format3.jpg)
+![tfa-format3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/format3.jpg)
 
-![td-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/format3.jpg)
+![td-format3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/format3.jpg)
 
 :::
 
@@ -78,7 +78,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
 ::: details 操作演示
 
-![tfa-format4.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/format4.jpg)
+![tfa-format4.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/format4.jpg)
 
 :::
 

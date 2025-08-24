@@ -23,8 +23,8 @@
 </li>
 </ol>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram1.jpg" alt="tfa-livegram1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram2.jpg" alt="tfa-livegram2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram1.jpg" alt="tfa-livegram1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram2.jpg" alt="tfa-livegram2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram2.jpg</figcaption></figure>
 </details>
 <h2 id="使用技巧" tabindex="-1"><a class="header-anchor" href="#使用技巧"><span>使用技巧</span></a></h2>
 <ul>
@@ -65,7 +65,7 @@
 </li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram3.jpg" alt="tfa-livegram3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram3.jpg" alt="tfa-livegram3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-livegram3.jpg</figcaption></figure>
 </details>
 </div></template>
 

@@ -21,7 +21,7 @@ Telegram Desktop默认并没有勾选"使用系统代理"， 所以很多人觉�
 
 ::: details 操作演示
 
-![td-proxy.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/proxy.jpg)
+![td-proxy.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/proxy.jpg)
 
 :::
 

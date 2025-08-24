@@ -19,8 +19,8 @@ head:
 
 ::: details 界面截图
 
-![tfa-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/menu.jpg)
+![tfa-menu.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/menu.jpg)
 
-![td--menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/td/menu.jpg)
+![td--menu.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/td/menu.jpg)
 
 :::

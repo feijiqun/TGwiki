@@ -31,9 +31,9 @@ head:
 
 ::: details 操作演示
 
-![tfa-livegram1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram1.jpg)
+![tfa-livegram1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram1.jpg)
 
-![tfa-livegram2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram2.jpg)
+![tfa-livegram2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram2.jpg)
 
 :::
 
@@ -68,6 +68,6 @@ head:
 
 ::: details 界面截图
 
-![tfa-livegram3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/livegram3.jpg)
+![tfa-livegram3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/livegram3.jpg)
 
 :::

@@ -13,7 +13,7 @@
 <p>您可以在 <code v-pre>设置</code>-&gt;<code v-pre>外观</code>-&gt;<code v-pre>右上角三个点</code> 中创建并使用您自己的主题。</p>
 </div>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/theme.jpg" alt="tfa-theme.jpg" tabindex="0" loading="lazy"><figcaption>tfa-theme.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/theme.jpg" alt="tfa-theme.jpg" tabindex="0" loading="lazy"><figcaption>tfa-theme.jpg</figcaption></figure>
 </details>
 </div></template>
 

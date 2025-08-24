@@ -20,7 +20,7 @@
 <li>
 <p>即使频道中未显示<code v-pre>收益</code>（<code v-pre>Monetization</code>）选项卡，频道所有者的账号仍会依靠通过TON购买并展示给其频道订阅者的广告中而获得资金。但是，在满足以上的条件之前，他们将无法提取这些资金。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/monetization1.jpg" alt="tfa-monetization1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-monetization1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/monetization1.jpg" alt="tfa-monetization1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-monetization1.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -49,7 +49,7 @@
 <li>
 <p>在新版Telegram中，频道所有者可以通过付费媒体内容赚取收入。频道管理员可以发布付费帖子。此功能适用于任何频道管理员，与订阅者数量、频道类型（私有或公开）和其他因素无关。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/monetization2.jpg" alt="tfa-monetization2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-monetization2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/monetization2.jpg" alt="tfa-monetization2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-monetization2.jpg</figcaption></figure>
 </details>
 </li>
 <li>

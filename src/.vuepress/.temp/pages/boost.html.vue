@@ -11,7 +11,7 @@
 <p>移动端点击助推链接后，向下滚动，即可查看完整的功能列表。</p>
 </div>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/boost1.jpg" alt="tfa-boost1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-boost1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/boost1.jpg" alt="tfa-boost1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-boost1.jpg</figcaption></figure>
 </details>
 <h2 id="如何助推" tabindex="-1"><a class="header-anchor" href="#如何助推"><span>如何助推</span></a></h2>
 <ul>
@@ -30,7 +30,7 @@
 <li>
 <p>管理员可以通过赠品活动（Giveaways）提升助推次数，每抽取<code v-pre>1</code>个大会员，频道/群组将获得<code v-pre>4</code>个助推。每抽取<code v-pre>500</code>个星币，频道/群组将获得<code v-pre>1</code>个助推。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/boost2.jpg" alt="tfa-boost2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-boost2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/boost2.jpg" alt="tfa-boost2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-boost2.jpg</figcaption></figure>
 </details>
 </li>
 <li>

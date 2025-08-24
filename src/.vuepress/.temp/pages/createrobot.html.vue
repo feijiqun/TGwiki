@@ -12,7 +12,7 @@ BotFather 回复：<code v-pre>Good. Now let's choose a username for your bot. I
 BotFather 回复（得到以下回复说明创建成功）：<code v-pre>Done! Congratulations on your new bot. You will find it at t.me/abcbot....</code>（<code v-pre>完毕！ 恭喜您的新机器人。 您可以在 t.me/abcbot 找到它。</code>）</li>
 </ol>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createrobot1.jpg" alt="tfa-createrobot1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createrobot1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/createrobot1.jpg" alt="tfa-createrobot1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createrobot1.jpg</figcaption></figure>
 </details>
 <div class="hint-container caution">
 <p class="hint-container-title">警告</p>
@@ -26,7 +26,7 @@ BotFather 回复（得到以下回复说明创建成功）：<code v-pre>Done! C
 <li>
 <p>点击机器人用户名</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/createrobot2.jpg" alt="tfa-createrobot2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createrobot2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/createrobot2.jpg" alt="tfa-createrobot2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-createrobot2.jpg</figcaption></figure>
 </details>
 <ul>
 <li>

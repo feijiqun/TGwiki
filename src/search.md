@@ -59,6 +59,6 @@ Telegram中文搜索体验比较差，以下方法可以助你更快地找到聊
 
 ::: details 操作演示
 
-![tfa-search.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/search.jpg)
+![tfa-search.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/search.jpg)
 
 :::

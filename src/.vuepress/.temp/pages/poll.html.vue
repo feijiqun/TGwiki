@@ -23,7 +23,7 @@
 <li>
 <p>Telegram/Telegram X Android：<code v-pre>点击右下角别针按钮</code>-&gt;<code v-pre>投票(Poll)</code></p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/poll.jpg" alt="tfa-poll.jpg" tabindex="0" loading="lazy"><figcaption>tfa-poll.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/poll.jpg" alt="tfa-poll.jpg" tabindex="0" loading="lazy"><figcaption>tfa-poll.jpg</figcaption></figure>
 </details>
 </li>
 <li>
@@ -32,7 +32,7 @@
 <li>
 <p>Windows/macOS/Linux Desktop：点击右上角更多按钮（三个点）-&gt;<code v-pre>新建投票</code>(<code v-pre>Create poll</code>)</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/td/poll.jpg" alt="td-poll.jpg" tabindex="0" loading="lazy"><figcaption>td-poll.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/td/poll.jpg" alt="td-poll.jpg" tabindex="0" loading="lazy"><figcaption>td-poll.jpg</figcaption></figure>
 </details>
 </li>
 </ul>

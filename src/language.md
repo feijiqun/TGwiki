@@ -20,7 +20,7 @@ Telegram网页版不支持使用语言包。
 
 ::: details 界面截图
 
-![tfa-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/language.jpg)
+![tfa-language.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/language.jpg)
 
 :::
 

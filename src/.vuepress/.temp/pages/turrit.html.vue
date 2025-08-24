@@ -3,7 +3,7 @@
 <h2 id="实用工具" tabindex="-1"><a class="header-anchor" href="#实用工具"><span>实用工具</span></a></h2>
 <h3 id="消息翻译" tabindex="-1"><a class="header-anchor" href="#消息翻译"><span>消息翻译<Badge text="支持AI" type="tip" vertical="top" /></span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/1.jpg" alt="turrit-1.jpg" tabindex="0" loading="lazy"><figcaption>turrit-1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/1.jpg" alt="turrit-1.jpg" tabindex="0" loading="lazy"><figcaption>turrit-1.jpg</figcaption></figure>
 </details>
 <ul>
 <li>
@@ -26,7 +26,7 @@
 </ul>
 <h3 id="消息屏蔽" tabindex="-1"><a class="header-anchor" href="#消息屏蔽"><span>消息屏蔽</span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/2.jpg" alt="turrit-2.jpg" tabindex="0" loading="lazy"><figcaption>turrit-2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/2.jpg" alt="turrit-2.jpg" tabindex="0" loading="lazy"><figcaption>turrit-2.jpg</figcaption></figure>
 </details>
 <ul>
 <li>屏蔽指定用户发言：隐藏用户在群组内的消息</li>
@@ -36,7 +36,7 @@
 <p>自定义上传下载加速幅度，最高可达20倍速</p>
 <h3 id="外观自定义" tabindex="-1"><a class="header-anchor" href="#外观自定义"><span>外观自定义</span></a></h3>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/3.jpg" alt="turrit-3.jpg" tabindex="0" loading="lazy"><figcaption>turrit-3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/3.jpg" alt="turrit-3.jpg" tabindex="0" loading="lazy"><figcaption>turrit-3.jpg</figcaption></figure>
 </details>
 <ul>
 <li>导航栏样式：<code v-pre>底部导航</code>/<code v-pre>侧边导航</code></li>
@@ -47,7 +47,7 @@
 <h3 id="隐私检测" tabindex="-1"><a class="header-anchor" href="#隐私检测"><span>隐私检测</span></a></h3>
 <p>一键检测隐私设置，防止隐私泄露！</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/4.jpg" alt="turrit-4.jpg" tabindex="0" loading="lazy"><figcaption>turrit-4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/4.jpg" alt="turrit-4.jpg" tabindex="0" loading="lazy"><figcaption>turrit-4.jpg</figcaption></figure>
 </details>
 <h3 id="视频流" tabindex="-1"><a class="header-anchor" href="#视频流"><span>视频流</span></a></h3>
 <ul>
@@ -58,7 +58,7 @@
 <h3 id="频道流" tabindex="-1"><a class="header-anchor" href="#频道流"><span>频道流</span></a></h3>
 <p>在Turrit，你可以像刷推文一样浏览频道的帖子，支持设置频道来源。</p>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/5.jpg" alt="turrit-5.jpg" tabindex="0" loading="lazy"><figcaption>turrit-5.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/5.jpg" alt="turrit-5.jpg" tabindex="0" loading="lazy"><figcaption>turrit-5.jpg</figcaption></figure>
 </details>
 <h2 id="文件工具" tabindex="-1"><a class="header-anchor" href="#文件工具"><span>文件工具</span></a></h2>
 <ul>
@@ -78,7 +78,7 @@
 <p>您可以在右上角开启“无痕浏览”模式，开启后将不再记录播放历史。</p>
 </div>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/6.jpg" alt="turrit-6.jpg" tabindex="0" loading="lazy"><figcaption>turrit-6.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/6.jpg" alt="turrit-6.jpg" tabindex="0" loading="lazy"><figcaption>turrit-6.jpg</figcaption></figure>
 </details>
 </li>
 </ul>
@@ -96,7 +96,7 @@
 <li>
 <p>群组备注：在群组信息页面添加群组备注消息，本地生效</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/turrit/7.jpg" alt="turrit-7.jpg" tabindex="0" loading="lazy"><figcaption>turrit-7.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/turrit/7.jpg" alt="turrit-7.jpg" tabindex="0" loading="lazy"><figcaption>turrit-7.jpg</figcaption></figure>
 </details>
 </li>
 </ul>

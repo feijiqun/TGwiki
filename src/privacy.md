@@ -11,11 +11,11 @@ head:
 
 ::: details 界面截图
 
-![tfa-privacy1.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy1.jpg)
+![tfa-privacy1.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/privacy1.jpg)
 
-![tfa-privacy2.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy2.jpg)
+![tfa-privacy2.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/privacy2.jpg)
 
-![tfa-privacy3.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/privacy3.jpg)
+![tfa-privacy3.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/privacy3.jpg)
 
 :::
 
@@ -35,7 +35,7 @@ head:
 
 ::: details 操作演示
 
-![tfa-2fa.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/2fa.jpg)
+![tfa-2fa.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/2fa.jpg)
 
 :::
 
@@ -81,7 +81,7 @@ head:
 
 ::: details 界面截图
 
-![tfa-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/device.jpg)
+![tfa-device.jpg](https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/device.jpg)
 
 :::
 

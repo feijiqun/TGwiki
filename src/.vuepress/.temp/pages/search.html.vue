@@ -44,7 +44,7 @@
 </li>
 </ol>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/search.jpg" alt="tfa-search.jpg" tabindex="0" loading="lazy"><figcaption>tfa-search.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/search.jpg" alt="tfa-search.jpg" tabindex="0" loading="lazy"><figcaption>tfa-search.jpg</figcaption></figure>
 </details>
 </div></template>
 

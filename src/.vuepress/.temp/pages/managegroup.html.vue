@@ -21,8 +21,8 @@
 </li>
 </ul>
 <details class="hint-container details"><summary>界面截图</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup1.jpg" alt="tfa-managegroup1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup1.jpg</figcaption></figure>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup2.jpg" alt="tfa-managegroup2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup2.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup1.jpg" alt="tfa-managegroup1.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup1.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup2.jpg" alt="tfa-managegroup2.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup2.jpg</figcaption></figure>
 </details>
 <h2 id="群组类型" tabindex="-1"><a class="header-anchor" href="#群组类型"><span>群组类型</span></a></h2>
 <div class="hint-container important">
@@ -43,13 +43,13 @@
 <li>
 <p>群管理员可以随时开启/关闭某一个话题。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup3.jpg" alt="tfa-managegroup3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup3.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup3.jpg" alt="tfa-managegroup3.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup3.jpg</figcaption></figure>
 </details>
 </li>
 <li>
 <p><code v-pre>General</code>话题（包含群组的所有系统消息）可以从话题列表中隐藏。隐藏后群成员可以在话题列表中下拉查看此话题。</p>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup4.jpg" alt="tfa-managegroup4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup4.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup4.jpg" alt="tfa-managegroup4.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup4.jpg</figcaption></figure>
 </details>
 </li>
 </ul>
@@ -65,7 +65,7 @@
 <li><code v-pre>慢速模式</code>（<code v-pre>Slow Mode</code>）：在<code v-pre>10</code>秒/<code v-pre>30</code>秒/<code v-pre>1</code>分钟/<code v-pre>5</code>分钟/<code v-pre>15</code>分钟/<code v-pre>1</code>个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。详情请参阅 <RouteLink to="/slowmode.html">慢速模式</RouteLink> 。</li>
 </ul>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup5.jpg" alt="tfa-managegroup5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup5.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup5.jpg" alt="tfa-managegroup5.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup5.jpg</figcaption></figure>
 </details>
 <h2 id="邀请链接" tabindex="-1"><a class="header-anchor" href="#邀请链接"><span>邀请链接</span></a></h2>
 <div class="hint-container tip">
@@ -79,7 +79,7 @@
 <li><code v-pre>公开群组</code>：开启<code v-pre>入群审核</code>（在<code v-pre>群组类型</code>里）后，用户通过公开链接（用户名）入群需要审核，但使用创建的邀请链接可以直接入群而无需审核。</li>
 </ul>
 <details class="hint-container details"><summary>操作演示</summary>
-<figure><img src="https://cdn.jsdelivr.net/gh/tgwiki//images/tfa/managegroup6.jpg" alt="tfa-managegroup6.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup6.jpg</figcaption></figure>
+<figure><img src="https://cdn.jsdelivr.net/gh/feijiqun/images/tfa/managegroup6.jpg" alt="tfa-managegroup6.jpg" tabindex="0" loading="lazy"><figcaption>tfa-managegroup6.jpg</figcaption></figure>
 </details>
 <h2 id="近期操作" tabindex="-1"><a class="header-anchor" href="#近期操作"><span>近期操作</span></a></h2>
 <p>当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的<code v-pre>管理员</code>页面增加了<code v-pre>近期操作</code>功能。用于存储过去48小时内在组中执行的所有服务操作的日志，仅对管理员可见。</p>
